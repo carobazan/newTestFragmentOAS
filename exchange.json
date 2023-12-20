@@ -1,10 +1,11 @@
 {
-  "main": "newTestFragmentOAS.yaml",
-  "name": "newTestFragmentOAS",
-  "classifier": "oas-components",
+  "version": "1.0.0",
   "apiVersion": "v1",
   "descriptorVersion": "1.0.0",
-  "groupId": null,
+  "classifier": "oas-components",
+  "main": "newTestFragmentOAS.yaml",
   "assetId": "newTestFragmentOAS",
-  "version": "1.0.0"
+  "groupId": "3cbbe9f3-c66b-4187-97cf-f07ee5f66c13",
+  "organizationId": "3cbbe9f3-c66b-4187-97cf-f07ee5f66c13",
+  "name": "newTestFragmentOAS"
 }

@@ -3,4 +3,14 @@ info:
   version: 1.0.0
   title: newTestFragmentOAS
 paths: {}
-components: {}
+components: 
+  schemas:
+    Person:
+      type: object
+      properties:
+          name:
+            type: string
+          address:
+            type: string
+          email: 
+            type: string
