@@ -1,0 +1,10 @@
+{
+  "main": "newTestFragmentOAS.yaml",
+  "name": "newTestFragmentOAS",
+  "classifier": "oas-components",
+  "apiVersion": "v1",
+  "descriptorVersion": "1.0.0",
+  "groupId": null,
+  "assetId": "newTestFragmentOAS",
+  "version": "1.0.0"
+}
